@@ -1,0 +1,4 @@
+rootProject.name = "Amplify Test 2"
+include ':app'
+include ':sub-app-1'
+include ':data-utils-lib'
